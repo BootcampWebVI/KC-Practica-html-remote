@@ -93,7 +93,7 @@ section header {
     position: relative;
 }
 section#home header {
-    background-image: url('../assets/home-bg.jpg')
+    background-image: url('../assets/Home-bg.jpg')
 }
 section#quiensoy header{
     background-image: url('../assets/quiensoy.jpg');
